@@ -63,6 +63,6 @@ We may update our Privacy Policy from time to time. Any changes will be posted t
 
 If you have questions or suggestions regarding this Privacy Policy, please contact us at:
 
-* **Developer:** Josue Guillen
+* **Developer:** Jose Guillen
 * **GitHub Repository:** [https://github.com/josguill007/pedi-dose](https://github.com/josguill007/pedi-dose)
 * **Email:** dose.pedi.app@gmail.com
